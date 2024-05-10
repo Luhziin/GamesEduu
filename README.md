@@ -1,2 +1,9 @@
-# GamesEduu
-dfnsdhfsdçouihgfvsdlihgfvsljknbfgaerçifyusEIPUbfkçjgiçuwsgilusgfçsioegfyawoeuhaoÇSIUcgbuoSAYDfvwaiujbfaqwljshycf9psdvjfa3çjebrqwYGC-9SdVIUNEÇSKRJGR23IP7WCSDOVIJMERKÇHBFOEYHD VZD0POMBKÇEJBHFVIweuaschvozdfmhe~prknfipWUsag9-VFJKBESR~KLNFqLIUAYGboimglk3ngfiwupehb9i´nrnglçejurgvuiosdçhn (bati a cabeça no teclas)
+#Boas vindas ao meu perfil
+
+Meu nome é Lucas Gabriel
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
+- 
+-
